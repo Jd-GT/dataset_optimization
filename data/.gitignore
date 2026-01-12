@@ -1,0 +1,52 @@
+# Entornos Virtuales de Python
+data/
+venv/
+env/
+ENV/
+.venv/
+*.venv
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Archivos de Sistema Operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDEs y Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos de configuración local
+.env
+.env.local
+
+# Logs y bases de datos
+*.log
+*.sqlite
+*.db
+
+# Archivos grandes de datos (opcional, descomenta si tienes datasets grandes)
+# *.csv
+# *.xlsx
+# *.parquet
