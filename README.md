@@ -1,4 +1,4 @@
-# 🏡 Optimización de Predicción de Precios: California Housing
+# 🏡 Optimización de Predicción de Precios Inmobiliarios
 
 Este proyecto explora la evolución de un modelo predictivo, desde una Regresión Lineal simple hasta un modelo Polinómico Regularizado, aplicando técnicas avanzadas de Machine Learning para controlar el Underfitting y Overfitting.
 
